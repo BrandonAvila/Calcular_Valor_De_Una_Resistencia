@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "1sZKHwqZg19fST4wAXJW/ttDOmeKNTZQrQZ1wmoO+/kq/j2sX45eVLhZ8ZPMVNdx5S5j07pKDhFV4gwZXHlMZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\Tareas\\APWOS\\Parcial_2\\CalcularValorResistencia\\Calcular_Valor_Resistencia.Api\\Calcular_Valor_Resistencia.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+[{"IdColor":"negro", "ValorUno":0, "ValorDos": 0 , "Multi":1, "Resistencia": "0%"},
+{"IdColor":"cafe", "ValorUno":1,"ValorDos": 1,"Multi": 10, "Resistencia": "1%"},
+{"IdColor":"rojo", "ValorUno": 2, "ValorDos": 2, "Multi":100, "Resistencia": "2%"},
+{"IdColor":"naranja", "ValorUno": 3, "ValorDos": 3, "Multi": 1000, "Resistencia": "3%"},
+{"IdColor":"amarillo", "ValorUno": 4, "ValorDos": 4, "Multi": 10000, "Resistencia": "4%"},
+{"IdColor":"verde", "ValorUno": 5, "ValorDos": 5, "Multi": 100000, "Resistencia": "0.5%"},
+{"IdColor":"azul", "ValorUno": 6, "ValorDos": 6, "Multi": 1000000, "Resistencia": "0.25%"},
+{"IdColor":"violeta", "ValorUno": 7, "ValorDos": 7, "Multi": 10000000, "Resistencia": "0.1"},
+{"IdColor": "gris", "ValorUno": 8, "ValorDos": 8, "Multi":100000000, "Resistencia": "0.05"},
+{"IdColor": "blanco", "ValorUno": 9, "ValorDos": 9, "Multi":1000000000, "Resistencia": "0.0%"},
+{"IdColor": "dorado", "ValorUno": 0, "ValorDos": 0, "Multi": 0, "Resistencia": "5%"},
+{"IdColor": "plata", "ValorUno": 0, "ValorDos": 0, "Multi": 0, "Resistencia": "10%"}]
+    
